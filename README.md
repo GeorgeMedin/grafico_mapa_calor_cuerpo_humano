@@ -31,7 +31,7 @@ pip install streamlit pandas matplotlib beautifulsoup4 lxml
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/nombre-del-repo.git
+git clone https://github.com/GeorgeMedin/grafico_mapa_calor_cuerpo_humano.git
 cd nombre-del-repo
 ```
 
